@@ -2,10 +2,10 @@
 ## Heyy! I am Ritvi, long story short, I am a maker!
 
 
-- 🔭 I’m currently working on my B.Tech Project and trying to setup some side hustles.
-- 🌱 I’m currently learning how to document my learnings and how you learn in Public.
+- 🔭 I’m currently trying to setup some side hustles.
+- 🌱 I’m learning how to document my learnings and how you learn in Public.
 - 👯 I’m looking to collaborate on crazy ideas. Especially ones that involve lots of colors.
-- 🤔 I’m looking for help with webdev. Currently wrestling with laravel.
+- 🤔 I’m looking for help with webdev. Wrestling with laravel.
 - 💬 Ask me about electronics, firmware, art, craft, books and craft beer! 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Sapiens is the only non-fiction book that has made it to the books I recommend.
