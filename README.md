@@ -29,7 +29,8 @@
 
 - [Twitter](http://twitter.com/frenzyritz13) :bird:
 - [Instagram](http://instagram.com/frenzy.works) 📸
-- [Twitch](http://twitch.tv/ritvim) 📺 
+- [Twitch](http://twitch.tv/ritvim) 📺
+- [Threads](http://twitch.tv/ritvim) 📺 
 - [LinkedIn](http://linkedin.com/in/ritvimishra) 👩‍💻
 - [Polywork](https://peerlist.io/ritvi) 📽 
 - [Peerlist](https://www.polywork.com/ritvi) 📽 
